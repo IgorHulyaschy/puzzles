@@ -1,0 +1,19 @@
+{
+  "name": "puzzles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "node ./src/index",
+    "test": "node --test --experimental-test-coverage tests/**/*.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sinon": "^20.0.0"
+  }
+}
