@@ -5,7 +5,7 @@
 # How to run tests ?
 *Requirements:
 - Nodejs version > 20
-### Run command `node --test "**/*.test.js"`
+### Run command `npm run test"`
 
 # Module system
 ```mermaid
